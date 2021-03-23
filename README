@@ -1,6 +1,11 @@
 fork from https://gitee.com/liangxiaoju/linux-ramdump-parser-extensions.git
 
-Python Linux Ramdump Parser Extensions:https://source.codeaurora.org/quic/la/platform/vendor/qcom-opensource/tools
+Python Linux Ramdump Parser Extensions
 
 Usage:
     Rename this directory to linux-ramdump-parser-v2/extensions
+    
+ 
+Note:
+Python Linux Ramdump Parser:
+https://source.codeaurora.org/quic/la/platform/vendor/qcom-opensource/tools
